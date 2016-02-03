@@ -1,0 +1,3 @@
+# LearningRepo
+This repository is only for learning my University Course and Practicing Some Programs...
+Not for any official purposes.
